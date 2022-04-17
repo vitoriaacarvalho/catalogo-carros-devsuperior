@@ -118,7 +118,7 @@ section.catalog{
     width: 100vw;
     padding: 100px;
 }
-#filter-card{/*tenho um problema monstruoso aui e não sei identificar*/
+#filter-card{
     background-color: var(--gray);
     width: 980px; 
     height: 150px;
@@ -182,7 +182,6 @@ section .card-item{
 .card-item>img{
     width: 85%;
 }
-/* ele fez isso com o h4 mas não há h4 e no h3 nao faz sentidolkkkk
 .card-item>.card-content>h3{;
     width: 90%;
 }*/
